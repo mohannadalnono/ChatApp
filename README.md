@@ -3,6 +3,14 @@ ChatApp using written in flutter by the help of firebase
 
 (this app is realized as project of fin of studies of diplome DAI [development application informatique])
 
+
+sequance diagram:
+
+[PFE.pdf](https://github.com/mohannadalnono/ChatApp/files/8227779/PFE.pdf)
+
+
+
+
 this is the feauters I am working on (planing sheet): 
 
 
