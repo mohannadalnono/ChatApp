@@ -6,8 +6,7 @@ ChatApp using written in flutter by the help of firebase
 
 sequance diagram:
 
-[PFE.pdf](https://github.com/mohannadalnono/ChatApp/files/8227779/PFE.pdf)
-
+[PFE_SequanceDiagram.pdf](https://github.com/mohannadalnono/ChatApp/files/8227783/PFE_SequanceDiagram.pdf)
 
 
 
