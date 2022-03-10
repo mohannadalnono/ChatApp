@@ -59,31 +59,37 @@ some Screenshots of app at the moment:
 
 
 first screen: 
+
 ![Screenshot_1646953546](https://user-images.githubusercontent.com/61779813/157771467-486f5f59-4991-405a-adc2-77805c9e2c3f.png)
 
 
 
 group chat:
+
 ![Screenshot_1646953560](https://user-images.githubusercontent.com/61779813/157771476-f55449ec-a8b1-406a-baf0-949eae314cce.png)
 
 
 
 private chat :
+
 ![Screenshot_1646953571](https://user-images.githubusercontent.com/61779813/157771477-dbdd942a-1340-4668-97b3-6733ac77e132.png)
 
 
 # Making account
 
 switch to signup instead
+
 ![Screenshot_1646954414](https://user-images.githubusercontent.com/61779813/157771823-32370ce3-2f24-44bd-8e69-fdb6a8b78d6e.png)
 
 
 
 enter informations
+
 ![Screenshot_1646954470](https://user-images.githubusercontent.com/61779813/157771828-0f092165-c9a1-4f8e-b201-82e45a432196.png)
 
 
 
 
 from the second app (console panel app) approve or reject requests
+
 ![Screenshot_1646954490](https://user-images.githubusercontent.com/61779813/157771831-dc74bf70-67b4-4613-a2b1-f5b7ab44502a.png)
